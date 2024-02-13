@@ -1,26 +1,43 @@
-.bg-style{
-    background-color:#202529;
-    color: white !important;
+.bg-style {
+  background-color: #202529;
+  color: white !important;
 }
 
-.font2{
-    color: #6e6f71;
-    font-size: 1.25rem;
+.font2 {
+  color: #6e6f71;
+  font-size: 1.25rem;
 }
 
-.font1{
-    font-size: 48px;
-    font-weight: 700;
+.font1 {
+  font-size: 48px;
+  font-weight: 700;
 }
 
-.img-style{
-    border:  #6e6f71;
-    border-radius: 10px;
+.img-style {
+  border: #6e6f71;
+  border-radius: 10px;
 }
 
-.font3{
-    background-color: #f8f9fa;
-    text-align: center;
-    font-size: 24px;
-    font-weight: 400;
+.font3 {
+  background-color: #f8f9fa;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.badges {
+  background-color: #202529;
+  margin-bottom: 10px;
+  padding-bottom: 7px;
+}
+
+.copyright-footer {
+  color: white !important;
+  background-color: #202529;
+  padding: 30px;
+  font-weight: 300;
+}
+
+.footer-links {
+  color: #f8f9fa !important;
 }
